@@ -1,0 +1,12 @@
+
+
+.name{
+  max-width: 90%;
+  margin-left: 5%;
+  min-width: 100vh;
+  color: #fff;
+  background-color: #000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
